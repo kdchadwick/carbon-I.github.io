@@ -22,14 +22,9 @@ about:
       href: https://orcid.org/0000-0002-5633-4865 
 ---
 
-Dana Chadwick is a Scientist at JPL and Mission Applications Lead, for the Earth Surface Mineral Dust Source Investigation (EMIT).
+Dana Chadwick is a Scientist at JPL in the Water & Ecosystems Group and Mission Applications Lead for the Earth Surface Mineral Dust Source Investigation (EMIT).
 
 ## Education
-• Ph.D., Earth System Science, Stanford University, 2017
-• B.A., Molecular and Cell Biology, University of California
-Berkeley, 2008
-• B.S., Environmental Economics and Policy, University of
-California Berkeley, 2008
 
 - [Ph.D., Earth System Science]{.fw-bold} |  Stanford University | 2017
 - [B.A., Molecular and Cell Biology]{.fw-bold} | University of California Berkeley  | 2008
